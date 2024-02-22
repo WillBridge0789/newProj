@@ -7,5 +7,5 @@
 5. Tailwind
 <br>
 ## Synopsis:
-
+<br>
 Building a simple and basic landing page while learning Tailwind! This build may be incorporated into another project sometime soon.
